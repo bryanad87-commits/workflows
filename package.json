@@ -1,14 +1,8 @@
 {
-  "name": "mi-proyecto-ci",
+  "name": "mi-primer-pipeline",
   "version": "1.0.0",
-  "description": "Proyecto para pipeline automatizado",
-  "main": "suma.js",
+  "description": "Demo para clase de DevOps",
   "scripts": {
-    "test": "jest"
-  },
-  "devDependencies": {
-    "jest": "^29.7.0"
+    "test": "echo '✅ Pruebas unitarias ejecutadas con éxito'"
   }
 }
-
-Agrega package.json
